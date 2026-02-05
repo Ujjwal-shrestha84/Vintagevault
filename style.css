@@ -1,0 +1,21 @@
+.product-link {
+  text-decoration: none;
+  color: inherit;
+}
+
+.product {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.product:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 6px 14px rgba(0,0,0,0.15);
+}
+
+.add-to-cart-btn {
+  background-color: #1f2933;
+}
+
+.add-to-cart-btn:hover {
+  background-color: #111827;
+}

@@ -1,0 +1,7 @@
+.navbar {
+  background-color: #1f2933; /* dark charcoal */
+}
+.navbar .nav-link,
+.navbar .navbar-brand {
+  color: #ffffff !important;
+}
